@@ -1,0 +1,157 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+
+  /* Institutional government palette */
+  --color-gov-50: #f3f7fc;
+  --color-gov-100: #e4edf7;
+  --color-gov-200: #c5d9ee;
+  --color-gov-300: #98bde0;
+  --color-gov-400: #649bce;
+  --color-gov-500: #3f7dba;
+  --color-gov-600: #2d62a0;
+  --color-gov-700: #264f83;
+  --color-gov-800: #23436d;
+  --color-gov-900: #213a5c;
+  --color-gov-950: #152640;
+
+  /* Saffron accent — used sparingly for Maharashtra identity */
+  --color-bhagwa-50: #fdf6ee;
+  --color-bhagwa-100: #fae8d3;
+  --color-bhagwa-200: #f5cba1;
+  --color-bhagwa-300: #efa969;
+  --color-bhagwa-400: #e98a38;
+  --color-bhagwa-500: #e87722;
+  --color-bhagwa-600: #c55e16;
+  --color-bhagwa-700: #9d4913;
+}
+
+html {
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+body {
+  background-color: #f5f7fa;
+  color: #1e293b;
+}
+
+/* Numeric alignment for data-dense tables */
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+/* ---------------------------------------------------------------
+   Micro-interactions — subtle, professional
+---------------------------------------------------------------- */
+
+@keyframes fade-slide-in {
+  from {
+    opacity: 0;
+    transform: translateY(4px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fade-in {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes pop-in {
+  from {
+    opacity: 0;
+    transform: translateY(6px) scale(0.98);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+@keyframes toast-in {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes shimmer {
+  0% { background-position: -400px 0; }
+  100% { background-position: 400px 0; }
+}
+
+.page-enter {
+  animation: fade-slide-in 0.28s cubic-bezier(0.2, 0.6, 0.2, 1) both;
+}
+
+.animate-fade {
+  animation: fade-in 0.2s ease both;
+}
+
+.animate-pop {
+  animation: pop-in 0.18s cubic-bezier(0.2, 0.6, 0.2, 1) both;
+}
+
+.animate-toast {
+  animation: toast-in 0.22s cubic-bezier(0.2, 0.6, 0.2, 1) both;
+}
+
+.skeleton {
+  border-radius: 6px;
+  background: linear-gradient(90deg, #eef2f7 25%, #e2e8f0 37%, #eef2f7 63%);
+  background-size: 800px 100%;
+  animation: shimmer 1.4s ease-in-out infinite;
+}
+
+/* Focus visibility for accessibility */
+:where(button, a, input, select, [tabindex]):focus-visible {
+  outline: 2px solid #264f83;
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+/* Refined scrollbars */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #cbd5e1 transparent;
+}
+
+*::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+*::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 4px;
+}
+
+*::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+/* Consistent select rendering */
+select {
+  appearance: none;
+  background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%2364748b' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3e%3cpolyline points='6 9 12 15 18 9'%3e%3c/polyline%3e%3c/svg%3e");
+  background-repeat: no-repeat;
+  background-position: right 0.55rem center;
+  background-size: 0.85em;
+  padding-right: 2rem;
+}
+
+/* Recharts: hide focus outlines, keep crisp grid */
+.recharts-wrapper *:focus {
+  outline: none;
+}

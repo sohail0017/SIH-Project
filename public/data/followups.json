@@ -1,0 +1,1282 @@
+[
+  {
+    "id": "FLW-001",
+    "traineeId": "ST-2021-MH-32076",
+    "milestone": "180-day",
+    "dueDate": "2026-09-09",
+    "status": "Open",
+    "lastContact": "2026-09-08",
+    "contactMethod": "Email",
+    "contactStatus": "Contacted",
+    "priority": "High",
+    "attempts": [
+      {
+        "date": "2026-09-10",
+        "channel": "WhatsApp",
+        "status": "Relocated",
+        "note": ""
+      },
+      {
+        "date": "2026-09-08",
+        "channel": "Email",
+        "status": "Contacted",
+        "note": "Trainee responded; outcome recorded."
+      }
+    ]
+  },
+  {
+    "id": "FLW-002",
+    "traineeId": "ST-2025-MH-34373",
+    "milestone": "90-day",
+    "dueDate": "2026-09-08",
+    "status": "Open",
+    "lastContact": "2026-09-09",
+    "contactMethod": "Field visit",
+    "contactStatus": "Pending",
+    "priority": "Medium",
+    "attempts": []
+  },
+  {
+    "id": "FLW-003",
+    "traineeId": "ST-2023-MH-34980",
+    "milestone": "180-day",
+    "dueDate": "2026-09-09",
+    "status": "Open",
+    "lastContact": "2026-09-03",
+    "contactMethod": "SMS",
+    "contactStatus": "Contacted",
+    "priority": "Medium",
+    "attempts": [
+      {
+        "date": "2026-09-03",
+        "channel": "SMS",
+        "status": "Contacted",
+        "note": "Trainee responded; outcome recorded."
+      }
+    ]
+  },
+  {
+    "id": "FLW-004",
+    "traineeId": "ST-2023-MH-36753",
+    "milestone": "365-day",
+    "dueDate": "2026-09-12",
+    "status": "Open",
+    "lastContact": "2026-09-03",
+    "contactMethod": "Field visit",
+    "contactStatus": "Contacted",
+    "priority": "High",
+    "attempts": [
+      {
+        "date": "2026-09-03",
+        "channel": "Field visit",
+        "status": "Contacted",
+        "note": "Trainee responded; outcome recorded."
+      }
+    ]
+  },
+  {
+    "id": "FLW-005",
+    "traineeId": "ST-2022-MH-23209",
+    "milestone": "30-day",
+    "dueDate": "2026-09-10",
+    "status": "Open",
+    "lastContact": "2026-09-01",
+    "contactMethod": "Phone call",
+    "contactStatus": "Pending",
+    "priority": "Medium",
+    "attempts": []
+  },
+  {
+    "id": "FLW-006",
+    "traineeId": "ST-2022-MH-35666",
+    "milestone": "365-day",
+    "dueDate": "2026-09-12",
+    "status": "Open",
+    "lastContact": "2026-09-06",
+    "contactMethod": "Email",
+    "contactStatus": "Contacted",
+    "priority": "High",
+    "attempts": [
+      {
+        "date": "2026-09-03",
+        "channel": "WhatsApp",
+        "status": "Contacted",
+        "note": "Trainee responded; outcome recorded."
+      },
+      {
+        "date": "2026-09-06",
+        "channel": "Email",
+        "status": "Contacted",
+        "note": "Trainee responded; outcome recorded."
+      }
+    ]
+  },
+  {
+    "id": "FLW-007",
+    "traineeId": "ST-2024-MH-26945",
+    "milestone": "365-day",
+    "dueDate": "2026-09-22",
+    "status": "Open",
+    "lastContact": "2026-09-02",
+    "contactMethod": "Phone call",
+    "contactStatus": "Pending",
+    "priority": "Low",
+    "attempts": []
+  },
+  {
+    "id": "FLW-008",
+    "traineeId": "ST-2022-MH-38041",
+    "milestone": "30-day",
+    "dueDate": "2026-09-21",
+    "status": "Open",
+    "lastContact": "2026-09-07",
+    "contactMethod": "WhatsApp",
+    "contactStatus": "Contacted",
+    "priority": "Medium",
+    "attempts": [
+      {
+        "date": "2026-09-02",
+        "channel": "Phone call",
+        "status": "Unreachable",
+        "note": ""
+      },
+      {
+        "date": "2026-09-07",
+        "channel": "WhatsApp",
+        "status": "Contacted",
+        "note": "Trainee responded; outcome recorded."
+      }
+    ]
+  },
+  {
+    "id": "FLW-009",
+    "traineeId": "ST-2023-MH-22343",
+    "milestone": "365-day",
+    "dueDate": "2026-09-16",
+    "status": "Open",
+    "lastContact": "2026-09-02",
+    "contactMethod": "Email",
+    "contactStatus": "Relocated",
+    "priority": "Low",
+    "attempts": [
+      {
+        "date": "2026-09-09",
+        "channel": "Phone call",
+        "status": "Failed delivery",
+        "note": ""
+      },
+      {
+        "date": "2026-09-02",
+        "channel": "Email",
+        "status": "Relocated",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "FLW-010",
+    "traineeId": "ST-2025-MH-21759",
+    "milestone": "180-day",
+    "dueDate": "2026-09-21",
+    "status": "Open",
+    "lastContact": "2026-09-03",
+    "contactMethod": "Field visit",
+    "contactStatus": "Pending",
+    "priority": "Low",
+    "attempts": []
+  },
+  {
+    "id": "FLW-011",
+    "traineeId": "ST-2024-MH-24607",
+    "milestone": "30-day",
+    "dueDate": "2026-09-18",
+    "status": "Open",
+    "lastContact": "2026-09-03",
+    "contactMethod": "Email",
+    "contactStatus": "Unreachable",
+    "priority": "Medium",
+    "attempts": [
+      {
+        "date": "2026-09-11",
+        "channel": "SMS",
+        "status": "Contacted",
+        "note": "Trainee responded; outcome recorded."
+      },
+      {
+        "date": "2026-09-03",
+        "channel": "Email",
+        "status": "Unreachable",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "id": "FLW-012",
+    "traineeId": "ST-2024-MH-21051",
+    "milestone": "90-day",
+    "dueDate": "2026-09-25",
+    "status": "Open",
+    "lastContact": "2026-09-04",
+    "contactMethod": "WhatsApp",
+    "contactStatus": "Contacted",
+    "priority": "Low",
+    "attempts": [
+      {
+        "date": "2026-09-04",
+        "channel": "WhatsApp",
+        "status": "Contacted",
+        "note": "Trainee responded; outcome recorded."
+      }
+    ]
+  },
+  {
+    "id": "FLW-013",
+    "traineeId": "ST-2023-MH-30405",
+    "milestone": "90-day",
+    "dueDate": "2026-03-16",
+    "status": "Completed",
+    "lastContact": "2025-12-27",
+    "contactMethod": "WhatsApp",
+    "contactStatus": "Contacted",
+    "priority": "Low",
+    "attempts": [
+      {
+        "date": "2026-05-17",
+        "channel": "Phone call",
+        "status": "Contacted",
+        "note": "Attempt successful."
+      }
+    ],
+    "agent": "SkillTrack automated follow-up",
+    "employmentConfirmed": true,
+    "reportedWage": 14600,
+    "jobSatisfaction": 5,
+    "skillRelevanceRating": 5,
+    "notes": "Employment confirmed; wage verified against the latest follow-up."
+  },
+  {
+    "id": "FLW-014",
+    "traineeId": "ST-2023-MH-31408",
+    "milestone": "90-day",
+    "dueDate": "2026-06-04",
+    "status": "Completed",
+    "lastContact": "2025-12-16",
+    "contactMethod": "Field visit",
+    "contactStatus": "Contacted",
+    "priority": "Low",
+    "attempts": [
+      {
+        "date": "2025-12-22",
+        "channel": "Phone call",
+        "status": "Contacted",
+        "note": "Attempt successful."
+      }
+    ],
+    "agent": "Placement cell coordinator",
+    "employmentConfirmed": true,
+    "reportedWage": 15800,
+    "jobSatisfaction": 4,
+    "skillRelevanceRating": 3,
+    "notes": "Employment confirmed; wage verified against the latest follow-up."
+  },
+  {
+    "id": "FLW-015",
+    "traineeId": "ST-2024-MH-22693",
+    "milestone": "180-day",
+    "dueDate": "2026-07-28",
+    "status": "Completed",
+    "lastContact": "2026-08-02",
+    "contactMethod": "Phone call",
+    "contactStatus": "Contacted",
+    "priority": "Low",
+    "attempts": [
+      {
+        "date": "2026-03-13",
+        "channel": "WhatsApp",
+        "status": "Contacted",
+        "note": "Attempt successful."
+      }
+    ],
+    "agent": "Placement cell coordinator",
+    "employmentConfirmed": true,
+    "reportedWage": 15800,
+    "jobSatisfaction": 4,
+    "skillRelevanceRating": 4,
+    "notes": "Employment confirmed; wage verified against the latest follow-up."
+  },
+  {
+    "id": "FLW-016",
+    "traineeId": "ST-2022-MH-33875",
+    "milestone": "365-day",
+    "dueDate": "2025-11-28",
+    "status": "Completed",
+    "lastContact": "2026-07-31",
+    "contactMethod": "SMS",
+    "contactStatus": "Contacted",
+    "priority": "Low",
+    "attempts": [
+      {
+        "date": "2026-06-14",
+        "channel": "Phone call",
+        "status": "Contacted",
+        "note": "Attempt successful."
+      }
+    ],
+    "agent": "District outreach officer",
+    "employmentConfirmed": true,
+    "reportedWage": 19400,
+    "jobSatisfaction": 5,
+    "skillRelevanceRating": 5,
+    "notes": "Employment confirmed; wage verified against the latest follow-up."
+  },
+  {
+    "id": "FLW-017",
+    "traineeId": "ST-2021-MH-38020",
+    "milestone": "365-day",
+    "dueDate": "2026-02-21",
+    "status": "Completed",
+    "lastContact": "2026-02-09",
+    "contactMethod": "Phone call",
+    "contactStatus": "Contacted",
+    "priority": "Low",
+    "attempts": [
+      {
+        "date": "2025-12-29",
+        "channel": "Phone call",
+        "status": "Contacted",
+        "note": "Attempt successful."
+      }
+    ],
+    "agent": "Placement cell coordinator",
+    "employmentConfirmed": true,
+    "reportedWage": 15100,
+    "jobSatisfaction": 5,
+    "skillRelevanceRating": 4,
+    "notes": "Employment confirmed; wage verified against the latest follow-up."
+  },
+  {
+    "id": "FLW-018",
+    "traineeId": "ST-2021-MH-37272",
+    "milestone": "90-day",
+    "dueDate": "2026-07-29",
+    "status": "Completed",
+    "lastContact": "2026-07-29",
+    "contactMethod": "Phone call",
+    "contactStatus": "Contacted",
+    "priority": "Low",
+    "attempts": [
+      {
+        "date": "2026-01-26",
+        "channel": "Phone call",
+        "status": "Contacted",
+        "note": "Attempt successful."
+      }
+    ],
+    "agent": "District outreach officer",
+    "employmentConfirmed": false,
+    "reportedWage": 0,
+    "jobSatisfaction": 4,
+    "skillRelevanceRating": 5,
+    "notes": "Enrolled in further studies; outcome recorded."
+  },
+  {
+    "id": "FLW-019",
+    "traineeId": "ST-2024-MH-25365",
+    "milestone": "90-day",
+    "dueDate": "2026-06-04",
+    "status": "Completed",
+    "lastContact": "2026-07-18",
+    "contactMethod": "WhatsApp",
+    "contactStatus": "Contacted",
+    "priority": "Low",
+    "attempts": [
+      {
+        "date": "2026-01-25",
+        "channel": "WhatsApp",
+        "status": "Contacted",
+        "note": "Attempt successful."
+      }
+    ],
+    "agent": "Maharashtra Skill Helpline",
+    "employmentConfirmed": false,
+    "reportedWage": 0,
+    "jobSatisfaction": 5,
+    "skillRelevanceRating": 3,
+    "notes": "Counselling provided; referred to the district placement drive."
+  },
+  {
+    "id": "FLW-020",
+    "traineeId": "ST-2024-MH-34924",
+    "milestone": "30-day",
+    "dueDate": "2025-12-05",
+    "status": "Completed",
+    "lastContact": "2026-03-08",
+    "contactMethod": "Field visit",
+    "contactStatus": "Contacted",
+    "priority": "Low",
+    "attempts": [
+      {
+        "date": "2026-01-21",
+        "channel": "WhatsApp",
+        "status": "Contacted",
+        "note": "Attempt successful."
+      }
+    ],
+    "agent": "Maharashtra Skill Helpline",
+    "employmentConfirmed": true,
+    "reportedWage": 19100,
+    "jobSatisfaction": 4,
+    "skillRelevanceRating": 3,
+    "notes": "Employment confirmed; wage verified against the latest follow-up."
+  },
+  {
+    "id": "FLW-021",
+    "traineeId": "ST-2022-MH-29216",
+    "milestone": "90-day",
+    "dueDate": "2026-04-02",
+    "status": "Completed",
+    "lastContact": "2026-07-16",
+    "contactMethod": "Field visit",
+    "contactStatus": "Contacted",
+    "priority": "Low",
+    "attempts": [
+      {
+        "date": "2026-04-20",
+        "channel": "Phone call",
+        "status": "Contacted",
+        "note": "Attempt successful."
+      }
+    ],
+    "agent": "SkillTrack automated follow-up",
+    "employmentConfirmed": true,
+    "reportedWage": 15000,
+    "jobSatisfaction": 3,
+    "skillRelevanceRating": 3,
+    "notes": "Apprenticeship on track; mentor feedback recorded."
+  },
+  {
+    "id": "FLW-022",
+    "traineeId": "ST-2025-MH-23642",
+    "milestone": "30-day",
+    "dueDate": "2025-12-21",
+    "status": "Completed",
+    "lastContact": "2026-04-03",
+    "contactMethod": "Phone call",
+    "contactStatus": "Contacted",
+    "priority": "Low",
+    "attempts": [
+      {
+        "date": "2025-12-22",
+        "channel": "WhatsApp",
+        "status": "Contacted",
+        "note": "Attempt successful."
+      }
+    ],
+    "agent": "Maharashtra Skill Helpline",
+    "employmentConfirmed": false,
+    "reportedWage": 0,
+    "jobSatisfaction": 4,
+    "skillRelevanceRating": 5,
+    "notes": "Counselling provided; referred to the district placement drive."
+  },
+  {
+    "id": "FLW-023",
+    "traineeId": "ST-2025-MH-31378",
+    "milestone": "365-day",
+    "dueDate": "2026-05-18",
+    "status": "Completed",
+    "lastContact": "2026-04-08",
+    "contactMethod": "Field visit",
+    "contactStatus": "Contacted",
+    "priority": "Low",
+    "attempts": [
+      {
+        "date": "2026-02-21",
+        "channel": "WhatsApp",
+        "status": "Contacted",
+        "note": "Attempt successful."
+      }
+    ],
+    "agent": "Maharashtra Skill Helpline",
+    "employmentConfirmed": true,
+    "reportedWage": 20100,
+    "jobSatisfaction": 3,
+    "skillRelevanceRating": 3,
+    "notes": "Employment confirmed; wage verified against the latest follow-up."
+  },
+  {
+    "id": "FLW-024",
+    "traineeId": "ST-2021-MH-26484",
+    "milestone": "90-day",
+    "dueDate": "2025-11-21",
+    "status": "Completed",
+    "lastContact": "2026-04-12",
+    "contactMethod": "Phone call",
+    "contactStatus": "Contacted",
+    "priority": "Low",
+    "attempts": [
+      {
+        "date": "2026-03-26",
+        "channel": "Phone call",
+        "status": "Contacted",
+        "note": "Attempt successful."
+      }
+    ],
+    "agent": "Maharashtra Skill Helpline",
+    "employmentConfirmed": true,
+    "reportedWage": 20900,
+    "jobSatisfaction": 4,
+    "skillRelevanceRating": 3,
+    "notes": "Employment confirmed; wage verified against the latest follow-up."
+  },
+  {
+    "id": "FLW-025",
+    "traineeId": "ST-2021-MH-22275",
+    "milestone": "180-day",
+    "dueDate": "2026-05-17",
+    "status": "Completed",
+    "lastContact": "2026-06-08",
+    "contactMethod": "Phone call",
+    "contactStatus": "Contacted",
+    "priority": "Low",
+    "attempts": [
+      {
+        "date": "2026-01-17",
+        "channel": "Field visit",
+        "status": "Contacted",
+        "note": "Attempt successful."
+      }
+    ],
+    "agent": "Placement cell coordinator",
+    "employmentConfirmed": true,
+    "reportedWage": 15000,
+    "jobSatisfaction": 3,
+    "skillRelevanceRating": 3,
+    "notes": "Employment confirmed; wage verified against the latest follow-up."
+  },
+  {
+    "id": "FLW-026",
+    "traineeId": "ST-2025-MH-20930",
+    "milestone": "365-day",
+    "dueDate": "2026-03-27",
+    "status": "Completed",
+    "lastContact": "2026-06-15",
+    "contactMethod": "Field visit",
+    "contactStatus": "Contacted",
+    "priority": "Low",
+    "attempts": [
+      {
+        "date": "2026-02-12",
+        "channel": "WhatsApp",
+        "status": "Contacted",
+        "note": "Attempt successful."
+      }
+    ],
+    "agent": "District Skill Office — follow-up desk",
+    "employmentConfirmed": true,
+    "reportedWage": 13400,
+    "jobSatisfaction": 5,
+    "skillRelevanceRating": 5,
+    "notes": "Employment confirmed; wage verified against the latest follow-up."
+  },
+  {
+    "id": "FLW-027",
+    "traineeId": "ST-2024-MH-27556",
+    "milestone": "90-day",
+    "dueDate": "2026-05-22",
+    "status": "Completed",
+    "lastContact": "2026-02-14",
+    "contactMethod": "SMS",
+    "contactStatus": "Contacted",
+    "priority": "Low",
+    "attempts": [
+      {
+        "date": "2026-05-27",
+        "channel": "Field visit",
+        "status": "Contacted",
+        "note": "Attempt successful."
+      }
+    ],
+    "agent": "District outreach officer",
+    "employmentConfirmed": true,
+    "reportedWage": 20200,
+    "jobSatisfaction": 3,
+    "skillRelevanceRating": 4,
+    "notes": "Employment confirmed; wage verified against the latest follow-up."
+  },
+  {
+    "id": "FLW-028",
+    "traineeId": "ST-2024-MH-22805",
+    "milestone": "30-day",
+    "dueDate": "2025-12-10",
+    "status": "Completed",
+    "lastContact": "2026-01-24",
+    "contactMethod": "WhatsApp",
+    "contactStatus": "Contacted",
+    "priority": "Low",
+    "attempts": [
+      {
+        "date": "2026-03-23",
+        "channel": "Phone call",
+        "status": "Contacted",
+        "note": "Attempt successful."
+      }
+    ],
+    "agent": "SkillTrack automated follow-up",
+    "employmentConfirmed": true,
+    "reportedWage": 16800,
+    "jobSatisfaction": 5,
+    "skillRelevanceRating": 3,
+    "notes": "Enterprise operating; monthly revenue band re-confirmed."
+  },
+  {
+    "id": "FLW-029",
+    "traineeId": "ST-2023-MH-35950",
+    "milestone": "90-day",
+    "dueDate": "2026-02-03",
+    "status": "Completed",
+    "lastContact": "2026-01-13",
+    "contactMethod": "WhatsApp",
+    "contactStatus": "Contacted",
+    "priority": "Low",
+    "attempts": [
+      {
+        "date": "2026-08-29",
+        "channel": "WhatsApp",
+        "status": "Contacted",
+        "note": "Attempt successful."
+      }
+    ],
+    "agent": "District outreach officer",
+    "employmentConfirmed": false,
+    "reportedWage": 0,
+    "jobSatisfaction": 5,
+    "skillRelevanceRating": 4,
+    "notes": "Contact attempted; awaiting response."
+  },
+  {
+    "id": "FLW-030",
+    "traineeId": "ST-2021-MH-38078",
+    "milestone": "180-day",
+    "dueDate": "2026-01-18",
+    "status": "Completed",
+    "lastContact": "2026-01-04",
+    "contactMethod": "SMS",
+    "contactStatus": "Contacted",
+    "priority": "Low",
+    "attempts": [
+      {
+        "date": "2026-04-10",
+        "channel": "WhatsApp",
+        "status": "Contacted",
+        "note": "Attempt successful."
+      }
+    ],
+    "agent": "District Skill Office — follow-up desk",
+    "employmentConfirmed": true,
+    "reportedWage": 22600,
+    "jobSatisfaction": 4,
+    "skillRelevanceRating": 4,
+    "notes": "Employment confirmed; wage verified against the latest follow-up."
+  },
+  {
+    "id": "FLW-031",
+    "traineeId": "ST-2024-MH-22078",
+    "milestone": "30-day",
+    "dueDate": "2026-06-12",
+    "status": "Completed",
+    "lastContact": "2026-03-26",
+    "contactMethod": "SMS",
+    "contactStatus": "Contacted",
+    "priority": "Low",
+    "attempts": [
+      {
+        "date": "2026-01-02",
+        "channel": "Field visit",
+        "status": "Contacted",
+        "note": "Attempt successful."
+      }
+    ],
+    "agent": "SkillTrack automated follow-up",
+    "employmentConfirmed": false,
+    "reportedWage": 0,
+    "jobSatisfaction": 3,
+    "skillRelevanceRating": 4,
+    "notes": "Counselling provided; referred to the district placement drive."
+  },
+  {
+    "id": "FLW-032",
+    "traineeId": "ST-2023-MH-37621",
+    "milestone": "90-day",
+    "dueDate": "2025-12-04",
+    "status": "Completed",
+    "lastContact": "2026-07-04",
+    "contactMethod": "Field visit",
+    "contactStatus": "Contacted",
+    "priority": "Low",
+    "attempts": [
+      {
+        "date": "2026-04-03",
+        "channel": "WhatsApp",
+        "status": "Contacted",
+        "note": "Attempt successful."
+      }
+    ],
+    "agent": "District Skill Office — follow-up desk",
+    "employmentConfirmed": true,
+    "reportedWage": 14400,
+    "jobSatisfaction": 5,
+    "skillRelevanceRating": 3,
+    "notes": "Employment confirmed; wage verified against the latest follow-up."
+  },
+  {
+    "id": "FLW-033",
+    "traineeId": "ST-2021-MH-31038",
+    "milestone": "180-day",
+    "dueDate": "2026-08-08",
+    "status": "Completed",
+    "lastContact": "2026-03-11",
+    "contactMethod": "SMS",
+    "contactStatus": "Contacted",
+    "priority": "Low",
+    "attempts": [
+      {
+        "date": "2026-06-17",
+        "channel": "Field visit",
+        "status": "Contacted",
+        "note": "Attempt successful."
+      }
+    ],
+    "agent": "District Skill Office — follow-up desk",
+    "employmentConfirmed": true,
+    "reportedWage": 24500,
+    "jobSatisfaction": 5,
+    "skillRelevanceRating": 3,
+    "notes": "Enterprise operating; monthly revenue band re-confirmed."
+  },
+  {
+    "id": "FLW-034",
+    "traineeId": "ST-2024-MH-20490",
+    "milestone": "365-day",
+    "dueDate": "2025-12-06",
+    "status": "Completed",
+    "lastContact": "2026-01-22",
+    "contactMethod": "WhatsApp",
+    "contactStatus": "Contacted",
+    "priority": "Low",
+    "attempts": [
+      {
+        "date": "2026-02-20",
+        "channel": "Phone call",
+        "status": "Contacted",
+        "note": "Attempt successful."
+      }
+    ],
+    "agent": "Placement cell coordinator",
+    "employmentConfirmed": true,
+    "reportedWage": 15800,
+    "jobSatisfaction": 5,
+    "skillRelevanceRating": 3,
+    "notes": "Employment confirmed; wage verified against the latest follow-up."
+  },
+  {
+    "id": "FLW-035",
+    "traineeId": "ST-2024-MH-38097",
+    "milestone": "90-day",
+    "dueDate": "2026-07-08",
+    "status": "Completed",
+    "lastContact": "2026-05-08",
+    "contactMethod": "WhatsApp",
+    "contactStatus": "Contacted",
+    "priority": "Low",
+    "attempts": [
+      {
+        "date": "2026-03-14",
+        "channel": "WhatsApp",
+        "status": "Contacted",
+        "note": "Attempt successful."
+      }
+    ],
+    "agent": "SkillTrack automated follow-up",
+    "employmentConfirmed": false,
+    "reportedWage": 0,
+    "jobSatisfaction": 5,
+    "skillRelevanceRating": 5,
+    "notes": "Counselling provided; referred to the district placement drive."
+  },
+  {
+    "id": "FLW-036",
+    "traineeId": "ST-2022-MH-33083",
+    "milestone": "180-day",
+    "dueDate": "2026-07-11",
+    "status": "Completed",
+    "lastContact": "2026-05-06",
+    "contactMethod": "SMS",
+    "contactStatus": "Contacted",
+    "priority": "Low",
+    "attempts": [
+      {
+        "date": "2026-07-11",
+        "channel": "Phone call",
+        "status": "Contacted",
+        "note": "Attempt successful."
+      }
+    ],
+    "agent": "District outreach officer",
+    "employmentConfirmed": true,
+    "reportedWage": 17400,
+    "jobSatisfaction": 5,
+    "skillRelevanceRating": 3,
+    "notes": "Employment confirmed; wage verified against the latest follow-up."
+  },
+  {
+    "id": "FLW-037",
+    "traineeId": "ST-2021-MH-32301",
+    "milestone": "30-day",
+    "dueDate": "2026-02-26",
+    "status": "Completed",
+    "lastContact": "2026-08-26",
+    "contactMethod": "WhatsApp",
+    "contactStatus": "Contacted",
+    "priority": "Low",
+    "attempts": [
+      {
+        "date": "2026-01-13",
+        "channel": "Field visit",
+        "status": "Contacted",
+        "note": "Attempt successful."
+      }
+    ],
+    "agent": "Placement cell coordinator",
+    "employmentConfirmed": true,
+    "reportedWage": 26800,
+    "jobSatisfaction": 5,
+    "skillRelevanceRating": 3,
+    "notes": "Employment confirmed; wage verified against the latest follow-up."
+  },
+  {
+    "id": "FLW-038",
+    "traineeId": "ST-2023-MH-26644",
+    "milestone": "30-day",
+    "dueDate": "2026-07-28",
+    "status": "Completed",
+    "lastContact": "2026-01-22",
+    "contactMethod": "Field visit",
+    "contactStatus": "Contacted",
+    "priority": "Low",
+    "attempts": [
+      {
+        "date": "2026-01-18",
+        "channel": "Field visit",
+        "status": "Contacted",
+        "note": "Attempt successful."
+      }
+    ],
+    "agent": "District Skill Office — follow-up desk",
+    "employmentConfirmed": true,
+    "reportedWage": 16200,
+    "jobSatisfaction": 4,
+    "skillRelevanceRating": 3,
+    "notes": "Employment confirmed; wage verified against the latest follow-up."
+  },
+  {
+    "id": "FLW-039",
+    "traineeId": "ST-2024-MH-21597",
+    "milestone": "180-day",
+    "dueDate": "2026-02-18",
+    "status": "Completed",
+    "lastContact": "2026-04-29",
+    "contactMethod": "Phone call",
+    "contactStatus": "Contacted",
+    "priority": "Low",
+    "attempts": [
+      {
+        "date": "2026-01-10",
+        "channel": "Field visit",
+        "status": "Contacted",
+        "note": "Attempt successful."
+      }
+    ],
+    "agent": "District Skill Office — follow-up desk",
+    "employmentConfirmed": true,
+    "reportedWage": 18100,
+    "jobSatisfaction": 5,
+    "skillRelevanceRating": 4,
+    "notes": "Employment confirmed; wage verified against the latest follow-up."
+  },
+  {
+    "id": "FLW-040",
+    "traineeId": "ST-2025-MH-39041",
+    "milestone": "365-day",
+    "dueDate": "2025-12-01",
+    "status": "Completed",
+    "lastContact": "2026-01-31",
+    "contactMethod": "Phone call",
+    "contactStatus": "Contacted",
+    "priority": "Low",
+    "attempts": [
+      {
+        "date": "2025-12-13",
+        "channel": "Field visit",
+        "status": "Contacted",
+        "note": "Attempt successful."
+      }
+    ],
+    "agent": "District outreach officer",
+    "employmentConfirmed": true,
+    "reportedWage": 27400,
+    "jobSatisfaction": 4,
+    "skillRelevanceRating": 4,
+    "notes": "Employment confirmed; wage verified against the latest follow-up."
+  },
+  {
+    "id": "FLW-041",
+    "traineeId": "ST-2022-MH-20369",
+    "milestone": "30-day",
+    "dueDate": "2026-03-06",
+    "status": "Completed",
+    "lastContact": "2026-02-06",
+    "contactMethod": "Field visit",
+    "contactStatus": "Contacted",
+    "priority": "Low",
+    "attempts": [
+      {
+        "date": "2026-05-08",
+        "channel": "Field visit",
+        "status": "Contacted",
+        "note": "Attempt successful."
+      }
+    ],
+    "agent": "Placement cell coordinator",
+    "employmentConfirmed": true,
+    "reportedWage": 32000,
+    "jobSatisfaction": 4,
+    "skillRelevanceRating": 3,
+    "notes": "Enterprise operating; monthly revenue band re-confirmed."
+  },
+  {
+    "id": "FLW-042",
+    "traineeId": "ST-2022-MH-22934",
+    "milestone": "365-day",
+    "dueDate": "2026-08-22",
+    "status": "Completed",
+    "lastContact": "2026-07-26",
+    "contactMethod": "Phone call",
+    "contactStatus": "Contacted",
+    "priority": "Low",
+    "attempts": [
+      {
+        "date": "2026-03-15",
+        "channel": "Field visit",
+        "status": "Contacted",
+        "note": "Attempt successful."
+      }
+    ],
+    "agent": "Maharashtra Skill Helpline",
+    "employmentConfirmed": true,
+    "reportedWage": 11700,
+    "jobSatisfaction": 4,
+    "skillRelevanceRating": 4,
+    "notes": "Employment confirmed; wage verified against the latest follow-up."
+  },
+  {
+    "id": "FLW-043",
+    "traineeId": "ST-2024-MH-20483",
+    "milestone": "90-day",
+    "dueDate": "2026-06-10",
+    "status": "Completed",
+    "lastContact": "2026-01-05",
+    "contactMethod": "SMS",
+    "contactStatus": "Contacted",
+    "priority": "Low",
+    "attempts": [
+      {
+        "date": "2026-02-18",
+        "channel": "Field visit",
+        "status": "Contacted",
+        "note": "Attempt successful."
+      }
+    ],
+    "agent": "District Skill Office — follow-up desk",
+    "employmentConfirmed": true,
+    "reportedWage": 18400,
+    "jobSatisfaction": 5,
+    "skillRelevanceRating": 4,
+    "notes": "Employment confirmed; wage verified against the latest follow-up."
+  },
+  {
+    "id": "FLW-044",
+    "traineeId": "ST-2021-MH-27262",
+    "milestone": "180-day",
+    "dueDate": "2026-07-13",
+    "status": "Completed",
+    "lastContact": "2026-07-08",
+    "contactMethod": "Phone call",
+    "contactStatus": "Contacted",
+    "priority": "Low",
+    "attempts": [
+      {
+        "date": "2026-05-11",
+        "channel": "WhatsApp",
+        "status": "Contacted",
+        "note": "Attempt successful."
+      }
+    ],
+    "agent": "District outreach officer",
+    "employmentConfirmed": false,
+    "reportedWage": 0,
+    "jobSatisfaction": 4,
+    "skillRelevanceRating": 5,
+    "notes": "Contact attempted; awaiting response."
+  },
+  {
+    "id": "FLW-045",
+    "traineeId": "ST-2022-MH-20699",
+    "milestone": "180-day",
+    "dueDate": "2026-07-28",
+    "status": "Completed",
+    "lastContact": "2026-05-26",
+    "contactMethod": "Field visit",
+    "contactStatus": "Contacted",
+    "priority": "Low",
+    "attempts": [
+      {
+        "date": "2026-07-27",
+        "channel": "WhatsApp",
+        "status": "Contacted",
+        "note": "Attempt successful."
+      }
+    ],
+    "agent": "District outreach officer",
+    "employmentConfirmed": true,
+    "reportedWage": 19000,
+    "jobSatisfaction": 4,
+    "skillRelevanceRating": 4,
+    "notes": "Enterprise operating; monthly revenue band re-confirmed."
+  },
+  {
+    "id": "FLW-046",
+    "traineeId": "ST-2022-MH-38654",
+    "milestone": "30-day",
+    "dueDate": "2026-03-28",
+    "status": "Completed",
+    "lastContact": "2026-02-02",
+    "contactMethod": "Phone call",
+    "contactStatus": "Contacted",
+    "priority": "Low",
+    "attempts": [
+      {
+        "date": "2026-03-02",
+        "channel": "Phone call",
+        "status": "Contacted",
+        "note": "Attempt successful."
+      }
+    ],
+    "agent": "SkillTrack automated follow-up",
+    "employmentConfirmed": true,
+    "reportedWage": 12600,
+    "jobSatisfaction": 4,
+    "skillRelevanceRating": 3,
+    "notes": "Employment confirmed; wage verified against the latest follow-up."
+  },
+  {
+    "id": "FLW-047",
+    "traineeId": "ST-2023-MH-24399",
+    "milestone": "30-day",
+    "dueDate": "2026-05-29",
+    "status": "Completed",
+    "lastContact": "2026-08-20",
+    "contactMethod": "Phone call",
+    "contactStatus": "Contacted",
+    "priority": "Low",
+    "attempts": [
+      {
+        "date": "2026-03-18",
+        "channel": "Field visit",
+        "status": "Contacted",
+        "note": "Attempt successful."
+      }
+    ],
+    "agent": "District Skill Office — follow-up desk",
+    "employmentConfirmed": true,
+    "reportedWage": 21500,
+    "jobSatisfaction": 4,
+    "skillRelevanceRating": 3,
+    "notes": "Employment confirmed; wage verified against the latest follow-up."
+  },
+  {
+    "id": "FLW-048",
+    "traineeId": "ST-2025-MH-25795",
+    "milestone": "30-day",
+    "dueDate": "2026-08-24",
+    "status": "Completed",
+    "lastContact": "2026-01-28",
+    "contactMethod": "SMS",
+    "contactStatus": "Contacted",
+    "priority": "Low",
+    "attempts": [
+      {
+        "date": "2026-07-27",
+        "channel": "Phone call",
+        "status": "Contacted",
+        "note": "Attempt successful."
+      }
+    ],
+    "agent": "Placement cell coordinator",
+    "employmentConfirmed": true,
+    "reportedWage": 21900,
+    "jobSatisfaction": 4,
+    "skillRelevanceRating": 5,
+    "notes": "Employment confirmed; wage verified against the latest follow-up."
+  },
+  {
+    "id": "FLW-049",
+    "traineeId": "ST-2024-MH-33407",
+    "milestone": "90-day",
+    "dueDate": "2026-05-25",
+    "status": "Completed",
+    "lastContact": "2026-03-01",
+    "contactMethod": "SMS",
+    "contactStatus": "Contacted",
+    "priority": "Low",
+    "attempts": [
+      {
+        "date": "2026-07-29",
+        "channel": "Phone call",
+        "status": "Contacted",
+        "note": "Attempt successful."
+      }
+    ],
+    "agent": "Placement cell coordinator",
+    "employmentConfirmed": true,
+    "reportedWage": 18500,
+    "jobSatisfaction": 5,
+    "skillRelevanceRating": 3,
+    "notes": "Employment confirmed; wage verified against the latest follow-up."
+  },
+  {
+    "id": "FLW-050",
+    "traineeId": "ST-2023-MH-28337",
+    "milestone": "180-day",
+    "dueDate": "2025-12-13",
+    "status": "Completed",
+    "lastContact": "2025-12-24",
+    "contactMethod": "Phone call",
+    "contactStatus": "Contacted",
+    "priority": "Low",
+    "attempts": [
+      {
+        "date": "2026-07-16",
+        "channel": "WhatsApp",
+        "status": "Contacted",
+        "note": "Attempt successful."
+      }
+    ],
+    "agent": "SkillTrack automated follow-up",
+    "employmentConfirmed": true,
+    "reportedWage": 17500,
+    "jobSatisfaction": 5,
+    "skillRelevanceRating": 3,
+    "notes": "Employment confirmed; wage verified against the latest follow-up."
+  },
+  {
+    "id": "FLW-051",
+    "traineeId": "ST-2023-MH-20341",
+    "milestone": "365-day",
+    "dueDate": "2026-09-08",
+    "status": "Completed",
+    "lastContact": "2026-09-08",
+    "contactMethod": "WhatsApp",
+    "contactStatus": "Contacted",
+    "priority": "Low",
+    "attempts": [
+      {
+        "date": "2026-09-08",
+        "channel": "WhatsApp",
+        "status": "Contacted",
+        "note": "Attempt successful."
+      }
+    ],
+    "agent": "SkillTrack automated follow-up",
+    "employmentConfirmed": true,
+    "reportedWage": 34500,
+    "jobSatisfaction": 5,
+    "skillRelevanceRating": 5,
+    "notes": "Working on enterprise React applications. Suggested advanced cloud modules."
+  },
+  {
+    "id": "FLW-052",
+    "traineeId": "ST-2022-MH-20348",
+    "milestone": "180-day",
+    "dueDate": "2026-08-20",
+    "status": "Completed",
+    "lastContact": "2026-08-20",
+    "contactMethod": "Phone call",
+    "contactStatus": "Contacted",
+    "priority": "Low",
+    "attempts": [
+      {
+        "date": "2026-08-20",
+        "channel": "Phone call",
+        "status": "Contacted",
+        "note": "Attempt successful."
+      }
+    ],
+    "agent": "Employer HR verification",
+    "employmentConfirmed": true,
+    "reportedWage": 24800,
+    "jobSatisfaction": 4,
+    "skillRelevanceRating": 4,
+    "notes": "Strong with Fanuc controls; recommended refresher on GD&T tolerances."
+  },
+  {
+    "id": "FLW-053",
+    "traineeId": "ST-2022-MH-20369",
+    "milestone": "365-day",
+    "dueDate": "2026-09-02",
+    "status": "Completed",
+    "lastContact": "2026-09-02",
+    "contactMethod": "Field visit",
+    "contactStatus": "Contacted",
+    "priority": "Low",
+    "attempts": [
+      {
+        "date": "2026-09-02",
+        "channel": "Field visit",
+        "status": "Contacted",
+        "note": "Attempt successful."
+      }
+    ],
+    "agent": "Kolhapur district outreach team",
+    "employmentConfirmed": true,
+    "reportedWage": 32000,
+    "jobSatisfaction": 5,
+    "skillRelevanceRating": 5,
+    "notes": "Own solar enterprise sustained; employs two helpers from the next batch."
+  },
+  {
+    "id": "FLW-054",
+    "traineeId": "ST-2023-MH-20376",
+    "milestone": "90-day",
+    "dueDate": "2026-08-30",
+    "status": "Completed",
+    "lastContact": "2026-08-30",
+    "contactMethod": "WhatsApp",
+    "contactStatus": "Contacted",
+    "priority": "Low",
+    "attempts": [
+      {
+        "date": "2026-08-30",
+        "channel": "WhatsApp",
+        "status": "Contacted",
+        "note": "Attempt successful."
+      }
+    ],
+    "agent": "Satara district officer",
+    "employmentConfirmed": false,
+    "reportedWage": 0,
+    "jobSatisfaction": 2,
+    "skillRelevanceRating": 3,
+    "notes": "Returned to home district; prefers local placement over metro migration."
+  }
+]

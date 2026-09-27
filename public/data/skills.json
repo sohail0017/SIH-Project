@@ -1,0 +1,110 @@
+[
+  {
+    "id": "SG-01",
+    "skill": "Cloud & DevOps Fundamentals",
+    "sector": "IT & Software",
+    "employerDemand": 91,
+    "trainingSupply": 38,
+    "priority": "Critical",
+    "note": "Pune and Mumbai IT employers report the largest unfilled demand."
+  },
+  {
+    "id": "SG-02",
+    "skill": "Multi-Axis CNC Machining",
+    "sector": "Manufacturing",
+    "employerDemand": 84,
+    "trainingSupply": 41,
+    "priority": "Critical",
+    "note": "Chakan and MIDC belt units need Fanuc/Siemens controller skills."
+  },
+  {
+    "id": "SG-03",
+    "skill": "EV Battery Management & Diagnostics",
+    "sector": "Automotive",
+    "employerDemand": 88,
+    "trainingSupply": 44,
+    "priority": "Critical",
+    "note": "EV service network expansion is outpacing certified supply."
+  },
+  {
+    "id": "SG-04",
+    "skill": "SMT Assembly & PCB Repair",
+    "sector": "Electronics",
+    "employerDemand": 82,
+    "trainingSupply": 40,
+    "priority": "Critical",
+    "note": "Electronics units in Pune and Thane report acute shortage."
+  },
+  {
+    "id": "SG-05",
+    "skill": "Digital Banking Operations",
+    "sector": "Banking & Financial Services",
+    "employerDemand": 74,
+    "trainingSupply": 49,
+    "priority": "High",
+    "note": "Branch operations and fintech back-office roles expanding."
+  },
+  {
+    "id": "SG-06",
+    "skill": "Warehouse Management Systems",
+    "sector": "Logistics",
+    "employerDemand": 71,
+    "trainingSupply": 42,
+    "priority": "High",
+    "note": "Bhiwandi and Panvel fulfilment hubs need WMS-literate staff."
+  },
+  {
+    "id": "SG-07",
+    "skill": "Solar PV Design & Net Metering",
+    "sector": "Renewable Energy",
+    "employerDemand": 77,
+    "trainingSupply": 51,
+    "priority": "High",
+    "note": "Rooftop solar targets under PM Surya Ghat driving demand."
+  },
+  {
+    "id": "SG-08",
+    "skill": "FSSAI-Compliant Food Processing",
+    "sector": "Agriculture & Food Processing",
+    "employerDemand": 68,
+    "trainingSupply": 47,
+    "priority": "High",
+    "note": "FPOs and agro-export units require certified line technicians."
+  },
+  {
+    "id": "SG-09",
+    "skill": "Patient Care & Clinical Assistance",
+    "sector": "Healthcare",
+    "employerDemand": 79,
+    "trainingSupply": 58,
+    "priority": "High",
+    "note": "District hospitals and home-care agencies hiring continuously."
+  },
+  {
+    "id": "SG-10",
+    "skill": "Modern Construction Techniques",
+    "sector": "Construction",
+    "employerDemand": 66,
+    "trainingSupply": 45,
+    "priority": "Medium",
+    "note": "Infrastructure corridor projects need supervisory skills."
+  },
+  {
+    "id": "SG-11",
+    "skill": "Retail Technology & POS Systems",
+    "sector": "Retail",
+    "employerDemand": 62,
+    "trainingSupply": 55,
+    "priority": "Medium",
+    "note": "Supply broadly adequate; focus on service quality upskilling."
+  },
+  {
+    "id": "SG-12",
+    "skill": "Multilingual Guest Services",
+    "sector": "Tourism & Hospitality",
+    "employerDemand": 58,
+    "trainingSupply": 52,
+    "priority": "Low",
+    "note": "Adequate supply; seasonal demand spikes in hill and coastal belts."
+  }
+]

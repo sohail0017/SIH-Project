@@ -1,0 +1,113 @@
+[
+  {
+    "id": "PROV-01",
+    "code": "ITI-PUN-0112",
+    "name": "Government ITI Pune",
+    "type": "Government ITI",
+    "centres": 6,
+    "districtsCovered": [
+      "Pune",
+      "Ahilyanagar",
+      "Satara",
+      "Solapur"
+    ]
+  },
+  {
+    "id": "PROV-02",
+    "code": "ITI-NGP-0087",
+    "name": "Government ITI Nagpur",
+    "type": "Government ITI",
+    "centres": 4,
+    "districtsCovered": [
+      "Nagpur",
+      "Wardha",
+      "Chandrapur",
+      "Bhandara",
+      "Gondia",
+      "Gadchiroli"
+    ]
+  },
+  {
+    "id": "PROV-03",
+    "code": "ITI-CSN-0064",
+    "name": "Government ITI Chhatrapati Sambhajinagar",
+    "type": "Government ITI",
+    "centres": 3,
+    "districtsCovered": [
+      "Chhatrapati Sambhajinagar",
+      "Jalna",
+      "Beed",
+      "Latur",
+      "Nanded",
+      "Parbhani",
+      "Hingoli",
+      "Dharashiv"
+    ]
+  },
+  {
+    "id": "PROV-04",
+    "code": "VTP-MUM-0321",
+    "name": "Mumbai Technical Training Institute",
+    "type": "Private VTP",
+    "centres": 9,
+    "districtsCovered": [
+      "Mumbai City",
+      "Mumbai Suburban",
+      "Thane",
+      "Palghar",
+      "Raigad",
+      "Ratnagiri",
+      "Sindhudurg"
+    ]
+  },
+  {
+    "id": "PROV-05",
+    "code": "VTP-PUN-0198",
+    "name": "Pune Skills Academy",
+    "type": "Private VTP",
+    "centres": 4,
+    "districtsCovered": [
+      "Pune",
+      "Kolhapur",
+      "Sangli",
+      "Satara"
+    ]
+  },
+  {
+    "id": "PROV-06",
+    "code": "POL-NSK-0045",
+    "name": "Nashik Polytechnic Skill Centre",
+    "type": "Polytechnic",
+    "centres": 3,
+    "districtsCovered": [
+      "Nashik",
+      "Dhule",
+      "Jalgaon",
+      "Nandurbar"
+    ]
+  },
+  {
+    "id": "PROV-07",
+    "code": "IND-CHN-0012",
+    "name": "Chakan Industries Skill Centre",
+    "type": "Industry Partner",
+    "centres": 1,
+    "districtsCovered": [
+      "Pune"
+    ]
+  },
+  {
+    "id": "PROV-08",
+    "code": "VTP-AMR-0276",
+    "name": "Vidarbha Skills Academy",
+    "type": "Private VTP",
+    "centres": 5,
+    "districtsCovered": [
+      "Amravati",
+      "Akola",
+      "Yavatmal",
+      "Washim",
+      "Buldhana"
+    ]
+  }
+]

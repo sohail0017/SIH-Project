@@ -1,0 +1,25 @@
+SKILLTRACK MONGODB SERVER FILES
+
+Replace these files in your project:
+  server/index.ts      <- this package's server/index.ts
+  server/db.ts         <- this package's server/db.ts
+  server/auth.ts       <- this package's server/auth.ts
+  server/mongoData.ts  <- keep your current version; included here for reference
+
+Keep your existing package.json and frontend files. No dependency additions are needed.
+
+ENVIRONMENT
+Your project-root .env must contain:
+  MONGODB_URI=your existing Atlas connection string
+  JWT_SECRET=your own random secret of at least 32 characters
+
+Generate a secret locally in Terminal with:
+  openssl rand -base64 48
+
+Do not paste or share the value. Restart the API after adding it.
+
+DATABASE BEHAVIOUR
+All application data routes use MongoDB collections. The /api/admin/reset endpoint reloads
+public/data JSON into the seven operational collections, and preserves users and logs.
+Do not call that endpoint unless you intend to replace those seven collections with the
+JSON seed files. Existing Atlas data is not modified by simply starting the server.

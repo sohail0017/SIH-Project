@@ -1,0 +1,6 @@
+{
+  "name": "SkillTrack",
+  "description": "SkillTrack — Maharashtra skilling outcomes platform of the Maharashtra State Innovation Society (MSInS), Department of Skills, Employment, Entrepreneurship and Innovation, Government of Maharashtra. Monitors training, employment, retention and livelihood outcomes across Maharashtra.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

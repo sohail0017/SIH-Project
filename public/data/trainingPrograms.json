@@ -1,0 +1,158 @@
+[
+  {
+    "id": "PROG-01",
+    "courseName": "Full Stack Web Development",
+    "sector": "IT & Software",
+    "nsqfLevel": 5,
+    "durationHours": 600,
+    "assessedSkills": [
+      "React & TypeScript",
+      "Node.js REST APIs",
+      "SQL & Data Modelling",
+      "Git & Agile Workflow"
+    ]
+  },
+  {
+    "id": "PROG-02",
+    "courseName": "CNC Machine Operator & Programmer",
+    "sector": "Manufacturing",
+    "nsqfLevel": 4,
+    "durationHours": 500,
+    "assessedSkills": [
+      "G-Code Programming",
+      "Tool Wear Compensation",
+      "Blueprint Reading & GD&T",
+      "Quality Metrology"
+    ]
+  },
+  {
+    "id": "PROG-03",
+    "courseName": "Electric Vehicle Service Technician",
+    "sector": "Automotive",
+    "nsqfLevel": 4,
+    "durationHours": 400,
+    "assessedSkills": [
+      "HV Battery Safety",
+      "EV Diagnostics",
+      "CAN Bus Troubleshooting",
+      "Motor Controller Basics"
+    ]
+  },
+  {
+    "id": "PROG-04",
+    "courseName": "General Duty Assistant (Healthcare)",
+    "sector": "Healthcare",
+    "nsqfLevel": 4,
+    "durationHours": 450,
+    "assessedSkills": [
+      "Vital Signs & Triage",
+      "Aseptic Technique & PPE",
+      "Patient Mobility & Ergonomics",
+      "Emergency BLS Response"
+    ]
+  },
+  {
+    "id": "PROG-05",
+    "courseName": "Banking & Financial Services Executive",
+    "sector": "Banking & Financial Services",
+    "nsqfLevel": 4,
+    "durationHours": 320,
+    "assessedSkills": [
+      "Core Banking Systems",
+      "KYC & AML Compliance",
+      "Customer Relationship Management",
+      "Digital Payments"
+    ]
+  },
+  {
+    "id": "PROG-06",
+    "courseName": "Warehouse Operations & Logistics",
+    "sector": "Logistics",
+    "nsqfLevel": 3,
+    "durationHours": 300,
+    "assessedSkills": [
+      "WMS Software Basics",
+      "Forklift Operations",
+      "Inventory Control",
+      "Dispatch Planning"
+    ]
+  },
+  {
+    "id": "PROG-07",
+    "courseName": "Retail Sales & Operations",
+    "sector": "Retail",
+    "nsqfLevel": 3,
+    "durationHours": 280,
+    "assessedSkills": [
+      "POS Systems",
+      "Visual Merchandising",
+      "Customer Service",
+      "Inventory Replenishment"
+    ]
+  },
+  {
+    "id": "PROG-08",
+    "courseName": "Food Processing Technician",
+    "sector": "Agriculture & Food Processing",
+    "nsqfLevel": 3,
+    "durationHours": 350,
+    "assessedSkills": [
+      "FSSAI Compliance",
+      "Cold Chain Handling",
+      "Processing Machine Operation",
+      "Quality Assurance"
+    ]
+  },
+  {
+    "id": "PROG-09",
+    "courseName": "Electronics Assembly & Repair (SMT)",
+    "sector": "Electronics",
+    "nsqfLevel": 3,
+    "durationHours": 380,
+    "assessedSkills": [
+      "SMT Line Operations",
+      "PCB Inspection & Rework",
+      "ESD Safety Protocols",
+      "AOI Machine Operation"
+    ]
+  },
+  {
+    "id": "PROG-10",
+    "courseName": "Solar PV Installation Technician",
+    "sector": "Renewable Energy",
+    "nsqfLevel": 4,
+    "durationHours": 350,
+    "assessedSkills": [
+      "Solar PV String Design",
+      "Inverter Synchronisation",
+      "Net-Metering Liaison",
+      "Rooftop Site Safety"
+    ]
+  },
+  {
+    "id": "PROG-11",
+    "courseName": "Construction Site Supervisor",
+    "sector": "Construction",
+    "nsqfLevel": 4,
+    "durationHours": 400,
+    "assessedSkills": [
+      "Site Supervision",
+      "BIM Basics",
+      "Concrete Mix Design & QA",
+      "Site Safety Compliance"
+    ]
+  },
+  {
+    "id": "PROG-12",
+    "courseName": "Tourism & Hospitality Operations",
+    "sector": "Tourism & Hospitality",
+    "nsqfLevel": 3,
+    "durationHours": 300,
+    "assessedSkills": [
+      "Guest Services",
+      "F&B Operations",
+      "Reservation & Booking Systems",
+      "Heritage Interpretation"
+    ]
+  }
+]
