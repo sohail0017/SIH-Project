@@ -51,9 +51,7 @@ npm install
 ### 2. Environment Configuration
 Verify your `.env` contains:
 ```env
-MONGODB_URI=mongodb+srv://skilltrack_admin:7013796206@cluster0.p1h72o5.mongodb.net/test?retryWrites=true&w=majority&appName=Cluster0
-JWT_SECRET=Qseuk3yX5haPQJgq1RZ+vKJyLt+0ggQDsaJpQB3XG7FpSF+aYow/RPCCvOlA+xsN
-PORT=5001
+
 ```
 *(Note: The backend features an intelligent fallback datastore: if MongoDB Atlas is unreachable or offline during sandbox evaluation, the server seamlessly loads the official seed data into memory, guaranteeing 100% test reliability.)*
 
