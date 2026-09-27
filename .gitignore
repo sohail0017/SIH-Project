@@ -6,4 +6,5 @@ coverage/
 *.log
 .env*
 !.env.example
-README..node_modules
+.env
+README.md
