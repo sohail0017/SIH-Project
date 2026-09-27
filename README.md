@@ -38,16 +38,6 @@ SkillTrack is configured with an institutional, secure-looking authentication ga
 
 ---
 
-## ⚡ Quick Evaluation Credentials
-
-The backend automatically pre-seeds default credentials upon startup:
-
-| Role | Email | Password | Access Scope |
-| :--- | :--- | :--- | :--- |
-| **State Administrator** | `admin@skilltrack.gov.in` | `Admin@12345` | Full Departmental & Admin Console |
-| **Citizen / Trainee** | `citizen@skilltrack.gov.in` | `Citizen@12345` | Citizen Skilling Portal & Enrolment |
-
-*Tip: On the login page, click **"⚡ Demo Admin"** or **"⚡ Demo Citizen"** to automatically populate credentials.*
 
 ---
 
