@@ -441,6 +441,49 @@ export const LoginPage: React.FC<LoginPageProps> = ({
                     )}
                   </button>
 
+                  {/* Demo Evaluation Credentials Quick Fillers */}
+                  <div className="mt-5 pt-4 border-t border-slate-200/70">
+                    <div className="flex items-center justify-between mb-2">
+                      <p className="text-[10px] font-bold uppercase tracking-wider text-slate-400">
+                        ⚡ Quick Evaluation Logins:
+                      </p>
+                      <span className="text-[10px] text-slate-400">Click to fill</span>
+                    </div>
+
+                    <div className="grid grid-cols-1 sm:grid-cols-2 gap-2">
+                      <button
+                        type="button"
+                        onClick={fillDemoAdmin}
+                        className="px-3 py-2 text-left border border-gov-200 bg-gov-50/70 hover:bg-gov-100/80 rounded-lg transition-colors cursor-pointer group"
+                      >
+                        <div className="flex items-center justify-between">
+                          <span className="text-xs font-bold text-gov-900">Demo Admin</span>
+                          <span className="text-[9px] font-bold uppercase text-gov-700 bg-gov-100 px-1.5 py-0.5 rounded">
+                            Full Admin
+                          </span>
+                        </div>
+                        <p className="text-[10px] text-slate-500 font-mono mt-0.5 truncate">
+                          admin@skilltrack.gov.in
+                        </p>
+                      </button>
+
+                      <button
+                        type="button"
+                        onClick={fillDemoCitizen}
+                        className="px-3 py-2 text-left border border-bhagwa-200 bg-bhagwa-50/70 hover:bg-bhagwa-100/80 rounded-lg transition-colors cursor-pointer group"
+                      >
+                        <div className="flex items-center justify-between">
+                          <span className="text-xs font-bold text-slate-800">Demo Citizen</span>
+                          <span className="text-[9px] font-bold uppercase text-bhagwa-700 bg-bhagwa-100 px-1.5 py-0.5 rounded">
+                            Citizen
+                          </span>
+                        </div>
+                        <p className="text-[10px] text-slate-500 font-mono mt-0.5 truncate">
+                          citizen@skilltrack.gov.in
+                        </p>
+                      </button>
+                    </div>
+                  </div>
                 </form>
               ) : (
                 /* Tab 2: Create Citizen Account */
